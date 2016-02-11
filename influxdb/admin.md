@@ -16,6 +16,7 @@ Standard:
     SHOW RETENTION POLICIES ON sysstat
 
 Change:
+
     ALTER RETENTION POLICY <retention_policy_name> ON <database_name> DURATION <duration> REPLICATION <n> [DEFAULT]
 
 Duration:
